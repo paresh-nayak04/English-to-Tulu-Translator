@@ -49,3 +49,4 @@ It converts English phrases into Tulu equivalents based on a small, manually cur
 - B.E in AI & Data Science | Manipal, India
 - 💡 Building simple AI tools to connect people through language.
 
+
